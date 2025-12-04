@@ -1,15 +1,19 @@
 Step 1 - Find the city (Easy)
 You have to find in which city this picture has been taken
+Google lens
 -> Lyon
 
 Step 2 - Find the GPS coordinates (Easy)
 Go check the video in the repo
--> Paris : 48°52'23.5"N 2°21'50.0"E
+Google lens
+-> Paris sur le quai de la marne : 48.89043, 2.38412
 
 Step 3 - Find the GPS coordinates (Medium)
 Find EXACTLY where this picture has been taken : https://i.ibb.co/0FxmgTb/medium-chall.jpg
--> Le Chesnay-Rocquencourt (Yvelines, France) : 48°49'56.6"N 2°07'23.9"E
+Grâce au panneau Google maps indication A81 le mans etc
+-> 
 
 Step 4 - Find the GPS coordinates (Medium)
 Find EXACTLY where this picture has been taken : https://i.ibb.co/qggQKH9/hard.jpg
--> 
+Reverse search l'image on arrive sur un site
+-> 5 rue des agials
