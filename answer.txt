@@ -1,3 +1,4 @@
+GEOINT :
 Step 1 - Find the city (Easy)
 You have to find in which city this picture has been taken
 Google lens
@@ -26,3 +27,21 @@ The date and time
 The country
 Here's your target : https://ibb.co/LXvxXx9h
 metadata de l'image avec exiftool on choppe les coordonnées
+
+
+OSINT :
+Step 1 - I'm Vengeance
+Someone seems very angry at PoC and sent you a mail :
+You think you can ghost me after the interview ?
+I’ll show PoC what a real meltdown looks like.
+— I’m Vengeance
+All we know is that it came from this address : u6259518657@proton.me
+Find out who this mysterious sender is among the list of students in students.txt.
+Utiliser l'outil sherlock avec u6259518657
+4 résultats
+intéressant : replit
+2 marty
+intéressant marty makefile
+1 fichier encoder
+inspecter la page et mdp en brut
+On télécharge le pdf et on obtient le flag
