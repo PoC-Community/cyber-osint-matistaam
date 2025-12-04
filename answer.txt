@@ -11,9 +11,18 @@ Google lens
 Step 3 - Find the GPS coordinates (Medium)
 Find EXACTLY where this picture has been taken : https://i.ibb.co/0FxmgTb/medium-chall.jpg
 Grâce au panneau Google maps indication A81 le mans etc
--> 
+on estime où est l'image
 
 Step 4 - Find the GPS coordinates (Medium)
 Find EXACTLY where this picture has been taken : https://i.ibb.co/qggQKH9/hard.jpg
 Reverse search l'image on arrive sur un site
 -> 5 rue des agials
+
+Step 5 - FINAL BOSS
+Congratulations ! You have just entered the main courtyard.
+Find the following information :
+The device model that took the photo
+The date and time
+The country
+Here's your target : https://ibb.co/LXvxXx9h
+metadata de l'image avec exiftool on choppe les coordonnées
